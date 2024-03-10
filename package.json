@@ -1,6 +1,6 @@
 {
   "name": "tea-farming-innovation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tea-farming-innovation",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "tea-demo-arsen": "1.0.1",
-    "tea-quality-controlling": "1.0.0"
+    "tea-quality-controlling": "1.0.0",
+    "i4-demo-tea": "1.0.0",
+    "tea-culture-exchange": "1.0.0"
   },
   "author": "jhonnie",
   "license": "ISC",
